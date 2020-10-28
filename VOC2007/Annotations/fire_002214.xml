@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fireSet</folder>
+	<filename>fire_002214.jpg</filename>
+	<path>FireImageSet\ImageSets\fire_002214.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>340</xmin>
+			<ymin>328</ymin>
+			<xmax>419</xmax>
+			<ymax>396</ymax>
+		</bndbox>
+	</object>
+</annotation>

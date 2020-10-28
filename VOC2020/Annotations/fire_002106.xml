@@ -1,0 +1,26 @@
+<annotation>
+	<folder>fireSet</folder>
+	<filename>fire_002106.jpg</filename>
+	<path>D:\2_学校\2-研究生\1-研究-火灾检测\fireLabelimg\fireSet\fire_002106.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>450</width>
+		<height>338</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>fire</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>11</xmin>
+			<ymin>229</ymin>
+			<xmax>262</xmax>
+			<ymax>277</ymax>
+		</bndbox>
+	</object>
+</annotation>

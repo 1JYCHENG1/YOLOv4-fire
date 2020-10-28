@@ -1,0 +1,14 @@
+<annotation>
+	<folder>fireSet</folder>
+	<filename>fire_000808.jpg</filename>
+	<path>FireImageSet\ImageSets\fire_000808.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>5472</width>
+		<height>3648</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+</annotation>
